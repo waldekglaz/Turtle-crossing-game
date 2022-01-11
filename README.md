@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code](https://github.com/waldekglaz/Turtle-crossing-game)
+- [Code](https://github.com/waldekglaz/Turtle-crossing-game)
 
 ## My process
 
